@@ -54,7 +54,7 @@ class LLMEnhancedConceptualMind:
         self.max_tokens = 2000
         self.api_calls_count = 0
         self.max_api_calls_per_session = 100
-        self.gemini_api_key = "AIzaSyCQd5Ere8o3dy_VFRp19j78vjjvh3e1YTk"  # Replace with your Gemini API key
+        self.gemini_api_key = "use_your_token_please"  # Replace with your Gemini API key
         self.model_name = "gemini-2.5-flash"  # Free-tier model
         
         # Learning control
